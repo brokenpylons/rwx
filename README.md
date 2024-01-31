@@ -1,2 +1,0 @@
-# rwx
-Landing page
